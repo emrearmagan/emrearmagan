@@ -74,12 +74,18 @@ Welcome to my page 👋🏻 <br> I'm Emre Armagan and a full-time computer-scien
 
 <br />
 
-#### My Stats
+#### Currently working on 🔥
+<p>
+<img href="https://sociallyapp.de" src="./sociall.png"/> &nbsp &nbsp &nbsp
+<img href="https://sociallyapp.de" src="https://github-readme-stats-emrearmagan.vercel.app/api/pin/?username=emrearmagan&repo=Go-MagicMirror&title_color=fe6287&text_color=ffffff&bg_color=0a192f&hide_border=true"/>
+</p>
+
+#### My Stats ✨
 
 <!--<details open>-->
   <!--<<summary>💻 GitHub Profile Stats</summary>-->
 
-  | <a href="https://github.com/emrearmagan?tab=repositories"><img align="center" src="https://github-readme-stats-emrearmagan.vercel.app/api?username=emrearmagan&show_icons=true&title_color=fe6287&icon_color=fe6287&text_color=ffffff&bg_color=0a192f&count_private=true&hide_border=true)](https://github.com/emrearmagan?tab=repositories" alt="Anurag's github stats" /></a> | <a href="https://github.com/emrearmagan?tab=repositories"><img align="center" src="https://github-readme-stats-emrearmagan.vercel.app/api/top-langs/?username=emrearmagan&layout=compact&show_icons=true&title_color=fe6287&icon_color=fe6287&text_color=ffffff&bg_color=0a192f&count_private=true" /></a>
+  | <a href="https://github.com/emrearmagan?tab=repositories"><img align="center" src="https://github-readme-stats-emrearmagan.vercel.app/api?username=emrearmagan&show_icons=true&title_color=fe6287&icon_color=fe6287&text_color=ffffff&bg_color=0a192f&count_private=true&hide_border=true)](https://github.com/emrearmagan?tab=repositories" alt="Emres github stats" /></a> | <a href="https://github.com/emrearmagan?tab=repositories"><img align="center" src="https://github-readme-stats-emrearmagan.vercel.app/api/top-langs/?username=emrearmagan&layout=compact&show_icons=true&title_color=fe6287&icon_color=fe6287&text_color=ffffff&bg_color=0a192f&count_private=true" /></a>
   | ------------- | ------------- |
 
 <!--<</details>-->
