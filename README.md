@@ -78,7 +78,7 @@ Welcome to my page 👋🏻 <br> I'm Emre Armagan and a full-time computer-scien
 <p>
 <a href="https://www.sociallyapp.de"><img src="./socially.png" alt="Socially"></a>
 &nbsp &nbsp
-<a href="https://github.com/emrearmagan/Go-MagicMirror"><img src="https://github-readme-stats-emrearmagan.vercel.app/api/pin/?username=emrearmagan&repo=Go-MagicMirror&title_color=fe6287&text_color=ffffff&bg_color=0a192f&hide_border=true" alt="MagicMirror"></a>
+<a href="https://github.com/emrearmagan/SimpleCharts"><img src="https://github-readme-stats-emrearmagan.vercel.app/api/pin/?username=emrearmagan&repo=SimpleCharts&title_color=fe6287&text_color=ffffff&bg_color=0a192f&hide_border=true" alt="SimpleCharts"></a>
 </p>
 
 #### My Stats ✨
