@@ -93,44 +93,4 @@ Welcome to my page 👋🏻 <br> I'm Emre Armagan and a full-time computer-scien
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2024%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-50-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 100 Contributions in the Year 2022
- > 
-> 📦 130.1 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 8 Public Repositories 
- > 
-> 🔑 7 Private Repositories  
- > 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Swift                    22 hrs 16 mins      ██████████████████████░░░   87.98% 
-Cocoa                    2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.94% 
-Markdown                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.09%
-
-🔥 Editors: 
-Xcode                    25 hrs 19 mins      █████████████████████████   100.0%
-
-💻 Operating System: 
-Mac                      25 hrs 19 mins      █████████████████████████   100.0%
-
-```
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/emrearmagan/emrearmagan/main/charts/bar_graph.png) 
-
-
- Last Updated on 08/04/2022 12:35:11 UTC
 <!--END_SECTION:waka-->
