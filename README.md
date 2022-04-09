@@ -93,15 +93,11 @@ Welcome to my page 👋🏻 <br> I'm Emre Armagan and a full-time computer-scien
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2024%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-76-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 102 Contributions in the Year 2022
+> 🏆 105 Contributions in the Year 2022
  > 
 > 📦 130.1 kB Used in GitHub's Storage 
  > 
@@ -109,24 +105,27 @@ Welcome to my page 👋🏻 <br> I'm Emre Armagan and a full-time computer-scien
  > 
 > 📜 8 Public Repositories 
  > 
-> 🔑 7 Private Repositories  
+> 🔑 8 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Swift                    22 hrs 16 mins      ██████████████████████░░░   87.98% 
-Cocoa                    2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.94% 
-Markdown                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.09%
+Swift                    22 hrs 25 mins      █████████████████░░░░░░░░   67.97% 
+Go                       6 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.78% 
+Cocoa                    2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.4% 
+JSON                     55 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.79% 
+Markdown                 36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.83%
 
 🔥 Editors: 
-Xcode                    25 hrs 19 mins      █████████████████████████   100.0%
+Xcode                    26 hrs 16 mins      ████████████████████░░░░░   79.64% 
+GoLand                   6 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   20.36%
 
 💻 Operating System: 
-Mac                      25 hrs 19 mins      █████████████████████████   100.0%
+Mac                      32 hrs 59 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 08/04/2022 12:47:45 UTC
+ Last Updated on 09/04/2022 00:32:36 UTC
 <!--END_SECTION:waka-->
