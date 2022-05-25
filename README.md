@@ -113,16 +113,16 @@ Welcome to my page 👋🏻 <br> I'm Emre Armagan and a full-time computer-scien
 
 ```text
 💬 Programming Languages: 
-Java                     41 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 41 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      41 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 24/05/2022 00:40:25 UTC
+ Last Updated on 25/05/2022 00:38:42 UTC
 <!--END_SECTION:waka-->
