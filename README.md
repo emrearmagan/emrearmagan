@@ -93,7 +93,7 @@ Welcome to my page 👋🏻 <br> I'm Emre Armagan and a full-time computer-scien
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-69%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-168%20hrs%209%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -124,5 +124,5 @@ Mac                      38 mins             ███████████�
 ```
 
 
- Last Updated on 19/08/2022 00:40:49 UTC
+ Last Updated on 20/08/2022 00:37:25 UTC
 <!--END_SECTION:waka-->
