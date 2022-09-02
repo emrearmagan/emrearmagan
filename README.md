@@ -93,7 +93,7 @@ Welcome to my page 👋🏻 <br> I'm Emre Armagan and a full-time computer-scien
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-168%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-168%20hrs%2014%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -113,16 +113,19 @@ Welcome to my page 👋🏻 <br> I'm Emre Armagan and a full-time computer-scien
 
 ```text
 💬 Programming Languages: 
-Sketch Drawing           2 mins              █████████████████████████   100.0%
+Markdown                 2 mins              ████████████░░░░░░░░░░░░░   49.37% 
+Sketch Drawing           2 mins              ███████████░░░░░░░░░░░░░░   45.18% 
+GitIgnore file           0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   5.45%
 
 🔥 Editors: 
-Sketch                   2 mins              █████████████████████████   100.0%
+IntelliJ                 2 mins              █████████████░░░░░░░░░░░░   54.82% 
+Sketch                   2 mins              ███████████░░░░░░░░░░░░░░   45.18%
 
 💻 Operating System: 
-Mac                      2 mins              █████████████████████████   100.0%
+Mac                      4 mins              █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 01/09/2022 00:41:49 UTC
+ Last Updated on 02/09/2022 00:40:43 UTC
 <!--END_SECTION:waka-->
