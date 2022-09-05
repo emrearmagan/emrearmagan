@@ -93,7 +93,7 @@ Welcome to my page 👋🏻 <br> I'm Emre Armagan and a full-time computer-scien
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-168%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -101,7 +101,7 @@ Welcome to my page 👋🏻 <br> I'm Emre Armagan and a full-time computer-scien
 
 > 🏆 112 Contributions in the Year 2022
  > 
-> 📦 200.3 kB Used in GitHub's Storage 
+> 📦 200.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -109,23 +109,6 @@ Welcome to my page 👋🏻 <br> I'm Emre Armagan and a full-time computer-scien
  > 
 > 🔑 8 Private Repositories  
  > 
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-Markdown                 2 mins              ████████████░░░░░░░░░░░░░   49.37% 
-Sketch Drawing           2 mins              ███████████░░░░░░░░░░░░░░   45.18% 
-GitIgnore file           0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   5.45%
-
-🔥 Editors: 
-IntelliJ                 2 mins              █████████████░░░░░░░░░░░░   54.82% 
-Sketch                   2 mins              ███████████░░░░░░░░░░░░░░   45.18%
-
-💻 Operating System: 
-Mac                      4 mins              █████████████████████████   100.0%
-
-```
-
-
- Last Updated on 04/09/2022 00:46:40 UTC
+ Last Updated on 05/09/2022 00:47:42 UTC
 <!--END_SECTION:waka-->
