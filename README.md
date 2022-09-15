@@ -109,6 +109,20 @@ Welcome to my page 👋🏻 <br> I'm Emre Armagan and a full-time computer-scien
  > 
 > 🔑 8 Private Repositories  
  > 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 14/09/2022 00:43:07 UTC
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+
+ Last Updated on 15/09/2022 00:46:25 UTC
 <!--END_SECTION:waka-->
