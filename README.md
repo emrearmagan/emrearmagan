@@ -99,7 +99,7 @@ Welcome to my page 👋🏻 <br> I'm Emre Armagan and a full-time computer-scien
 
 **🐱 My GitHub Data** 
 
-> 📦 235.6 kB Used in GitHub's Storage 
+> 📦 235.7 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2024
  > 
@@ -123,5 +123,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 12/06/2024 00:32:43 UTC
+ Last Updated on 13/06/2024 00:32:26 UTC
 <!--END_SECTION:waka-->
