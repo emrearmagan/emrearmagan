@@ -93,13 +93,13 @@ Welcome to my page 👋🏻 <br> I'm Emre Armagan and a full-time computer-scien
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-168%20hrs%2014%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 236.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 15 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -121,5 +121,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 03/11/2024 00:43:02 UTC
+ Last Updated on 04/11/2024 00:41:28 UTC
 <!--END_SECTION:waka-->
