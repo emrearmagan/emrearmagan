@@ -8,7 +8,9 @@
 [![GitHub](https://img.shields.io/github/followers/emrearmagan?label=follow&style=social)](https://github.com/emrearmagan)
 [![Mail](https://img.shields.io/badge/Email-emrearmagan.dev%40gmail.com-orange)](mailto:emrearmagan.dev@gmail.com)
 [![Instagram](https://img.shields.io/badge/emrearmagan-black?style=flat&logo=Instagram&logoColor=pink)](https://www.instagram.com/emrespage/)
-[![LinkedIn](https://img.shields.io/badge/Emre%20Armagan-black?style=flat&logo=LinkedIn&logoColor=0077b5)](https://www.linkedin.com/in/emrearmagan/)
+[![LinkedIn](https://img.shields.io/badge/Emre%20Armagan-black?style=flat&logo=LinkedIn&logoColor=0077b5)](https://www.linkedin.com/in/emrearmagan/)\
+![Code Time](http://img.shields.io/badge/Code%20Time-168%20hrs%2014%20mins-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.6%20million%20lines%20of%20code-blue)
 
 ---
 <br>
@@ -77,8 +79,6 @@ Welcome to my page 👋🏻 <br> I'm Emre Armagan and a full-time computer-scien
 #### Currently working on 🔥
 <p>
 <a href="https://www.sociallyapp.de"><img src="./socially.png" alt="Socially"></a>
-&nbsp &nbsp
-<a href="https://github.com/emrearmagan/SimpleCharts"><img src="https://github-readme-stats-emrearmagan.vercel.app/api/pin/?username=emrearmagan&repo=SimpleCharts&title_color=fe6287&text_color=ffffff&bg_color=0a192f&hide_border=true" alt="SimpleCharts"></a>
 </p>
 
 #### My Stats ✨
@@ -86,16 +86,13 @@ Welcome to my page 👋🏻 <br> I'm Emre Armagan and a full-time computer-scien
 <!--<details open>-->
   <!--<<summary>💻 GitHub Profile Stats</summary>-->
 
-  | <a href="https://github.com/emrearmagan?tab=repositories"><img align="center" src="https://github-readme-stats-emrearmagan.vercel.app/api?username=emrearmagan&show_icons=true&title_color=fe6287&icon_color=fe6287&text_color=ffffff&bg_color=0a192f&count_private=true&hide_border=true)](https://github.com/emrearmagan?tab=repositories" alt="Emres github stats" /></a> | <a href="https://github.com/emrearmagan?tab=repositories"><img align="center" src="https://github-readme-stats-emrearmagan.vercel.app/api/top-langs/?username=emrearmagan&layout=compact&show_icons=true&title_color=fe6287&icon_color=fe6287&text_color=ffffff&bg_color=0a192f&count_private=true" /></a>
-  | ------------- | ------------- |
+<a href="https://github.com/emrearmagan?tab=repositories"><img align="center" src="https://github-readme-stats-emrearmagan.vercel.app/api/top-langs/?username=emrearmagan&layout=compact&show_icons=true&title_color=fe6287&icon_color=fe6287&text_color=ffffff&bg_color=0a192f&count_private=true" /></a>
 
 <!--<</details>-->
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-168%20hrs%2014%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -109,18 +106,6 @@ Welcome to my page 👋🏻 <br> I'm Emre Armagan and a full-time computer-scien
  > 
 > 🔑 11 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
 
 
  Last Updated on 05/01/2025 00:43:42 UTC
