@@ -74,17 +74,18 @@ Welcome to my page 👋🏻 <br> I'm Emre Armagan and a full-time computer-scien
     <img src="https://img.shields.io/badge/Atom-55ba73.svg?logo=Atom&logoColor=white"/>
 </p>
 
-#### My Stats ✨
-
-<a href="https://github.com/emrearmagan?tab=repositories"><img align="center" src="https://github-readme-stats-emrearmagan.vercel.app/api/top-langs/?username=emrearmagan&layout=compact&show_icons=true&title_color=fe6287&icon_color=fe6287&text_color=ffffff&bg_color=0a192f&count_private=true" /></a>
-
-<br />
-
 #### Currently working on 🔥
 <p>
 <a href="https://www.sociallyapp.de"><img src="./socially.png" alt="Socially"></a>
 </p>
 
+
+
+#### My Stats ✨
+
+<a href="https://github.com/emrearmagan?tab=repositories"><img align="center" src="https://github-readme-stats-emrearmagan.vercel.app/api/top-langs/?username=emrearmagan&layout=compact&show_icons=true&title_color=fe6287&icon_color=fe6287&text_color=ffffff&bg_color=0a192f&count_private=true" /></a>
+
+<br />
 
 **🐱 My GitHub Data** 
 
