@@ -1,8 +1,9 @@
 <br/>
 <div align="center">
-<img src="./intro.gif" alt="Typer" />
-</div>
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+there%2C+fellow+%3Ccoders%2F%3E!)](https://git.io/typing-svg)
 
+</div>
 
 ![Visitor Views](https://komarev.com/ghpvc/?username=emrearmagan&color=blue&logo=flat)
 [![GitHub](https://img.shields.io/github/followers/emrearmagan?label=follow&style=social)](https://github.com/emrearmagan)
