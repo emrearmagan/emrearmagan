@@ -17,7 +17,7 @@
 <br>
 <p align="center">
   <samp>
-Welcome to my page 👋🏻 <br> I'm Emre Armagan and a full-time computer-science student at the University of Hamburg and enjoy coding in my free time.
+Welcome to my page 👋🏻 <br> I'm Emre Armagan and enjoy coding in my free time.
   </samp>
 </p>
 
