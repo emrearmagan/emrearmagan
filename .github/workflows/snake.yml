@@ -1,0 +1,36 @@
+name: snake
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/snake.yml"
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate snake SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: emrearmagan
+          outputs: |
+            assets/snake.svg?color_snake=%23e8e8e8&color_dots=%23161616,%233a3a3a,%23666666,%23a0a0a0,%23e8e8e8
+
+      - name: Commit snake SVG
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          file_pattern: assets/snake.svg
+          commit_message: Update snake SVG
+          commit_user_name: github-actions[bot]
+          commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
+          commit_author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
