@@ -67,20 +67,6 @@ Welcome to my page 👋🏻 <br> I'm Emre Armagan and enjoy coding in my free ti
     <img src="https://img.shields.io/badge/Atom-55ba73.svg?logo=Atom&logoColor=white"/>
 </p>
 
-### WakaTime (over last week) ⚡
+### Language activity
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-168%20hrs%2014%20mins-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 16/07/2026 09:51:17 UTC
 <!--END_SECTION:waka-->

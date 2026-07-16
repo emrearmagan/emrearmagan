@@ -22,8 +22,8 @@ jobs:
           SECTION_NAME: waka
           PULL_BRANCH_NAME: main
           PUSH_BRANCH_NAME: main
-          SHOW_TOTAL_CODE_TIME: "True"
-          SHOW_PROJECTS: "True"
+          SHOW_TOTAL_CODE_TIME: "False"
+          SHOW_PROJECTS: "False"
           SHOW_LANGUAGE: "True"
           SHOW_OS: "False"
           SHOW_EDITORS: "False"
@@ -35,5 +35,5 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_SHORT_INFO: "False"
-          SHOW_UPDATED_DATE: "True"
+          SHOW_UPDATED_DATE: "False"
           BADGE_STYLE: "flat"
