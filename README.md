@@ -12,7 +12,9 @@
 [![LinkedIn](https://img.shields.io/badge/Emre%20Armagan-black?style=flat&logo=LinkedIn&logoColor=0077b5)](https://www.linkedin.com/in/emrearmagan/)\
 [![Currently working on](https://img.shields.io/badge/Working%20on-Socially-0a192f?style=flat)](https://www.sociallyapp.de)
 <!--START_SECTION:lines_of_code-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.32%20million%20lines%20of%20code-blue?style=flat)
+
+
 <!--END_SECTION:lines_of_code-->
 
 ---
