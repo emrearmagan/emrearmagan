@@ -11,13 +11,9 @@
 [![Mail](https://img.shields.io/badge/Email-emrearmagan.dev%40gmail.com-orange)](mailto:emrearmagan.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Emre%20Armagan-black?style=flat&logo=LinkedIn&logoColor=0077b5)](https://www.linkedin.com/in/emrearmagan/)\
 [![Currently working on](https://img.shields.io/badge/Working%20on-Socially-0a192f?style=flat)](https://www.sociallyapp.de)
-<!--START_SECTION:lines_of_code-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.32%20million%20lines%20of%20code-blue?style=flat)
-
-
-<!--END_SECTION:lines_of_code-->
 
 ---
+
 <br>
 <p align="center">
   <samp>
@@ -26,8 +22,8 @@ Welcome to my page 👋🏻 <br> I'm Emre Armagan and enjoy coding in my free ti
 </p>
 <br>
 
-
 #### Favorite Tech 🚀
+
 > Tools, languages, and other things that I like to work with.
 
 <p>
@@ -73,34 +69,39 @@ Welcome to my page 👋🏻 <br> I'm Emre Armagan and enjoy coding in my free ti
 </p>
 
 ### Language activity
+
+<!--START_SECTION:lines_of_code-->
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.32%20million%20lines%20of%20code-blue?style=flat)
+
+<!--END_SECTION:lines_of_code-->
+
 <!--START_SECTION:waka_languages-->
-**I Mostly Code in Swift** 
+
+**I Mostly Code in Swift**
 
 ```text
-Swift                    16 repos            █████████░░░░░░░░░░░░░░░░   35.56 % 
-Go                       12 repos            ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-Lua                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+Swift                    16 repos            █████████░░░░░░░░░░░░░░░░   35.56 %
+Go                       12 repos            ███████░░░░░░░░░░░░░░░░░░   26.67 %
+Lua                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 %
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
 ```
-
-
-
 
 <!--END_SECTION:waka_languages-->
 
 <!--START_SECTION:github_data-->
-**🐱 My GitHub Data** 
 
-> 📦 443.1 kB Used in GitHub's Storage 
- > 
+**🐱 My GitHub Data**
+
+> 📦 443.1 kB Used in GitHub's Storage
+>
 > 🏆 885 Contributions in the Year 2026
- > 
+>
 > 🚫 Not Opted to Hire
- > 
-> 📜 19 Public Repositories 
- > 
-> 🔑 21 Private Repositories 
- > 
+>
+> 📜 19 Public Repositories
+>
+> 🔑 21 Private Repositories
 
 <!--END_SECTION:github_data-->
