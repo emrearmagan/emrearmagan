@@ -15,11 +15,12 @@ jobs:
     name: Update README with WakaTime stats
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - name: Update repo language chart
+        uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SECTION_NAME: waka
+          SECTION_NAME: waka_languages
           PULL_BRANCH_NAME: main
           PUSH_BRANCH_NAME: main
           SHOW_LANGUAGE: "False"
@@ -31,6 +32,31 @@ jobs:
           SHOW_DAYS_OF_WEEK: "False"
           SHOW_TIMEZONE: "False"
           SHOW_LANGUAGE_PER_REPO: "True"
+          SHOW_LINES_OF_CODE: "False"
+          SHOW_LOC_CHART: "False"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_SHORT_INFO: "False"
+          SHOW_UPDATED_DATE: "False"
+          SYMBOL_VERSION: "1"
+          BADGE_STYLE: "flat"
+
+      - name: Update GitHub data
+        uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SECTION_NAME: github_data
+          PULL_BRANCH_NAME: main
+          PUSH_BRANCH_NAME: main
+          SHOW_LANGUAGE: "False"
+          SHOW_TOTAL_CODE_TIME: "False"
+          SHOW_PROJECTS: "False"
+          SHOW_OS: "False"
+          SHOW_EDITORS: "False"
+          SHOW_COMMIT: "False"
+          SHOW_DAYS_OF_WEEK: "False"
+          SHOW_TIMEZONE: "False"
+          SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_LINES_OF_CODE: "False"
           SHOW_LOC_CHART: "False"
           SHOW_PROFILE_VIEWS: "False"
