@@ -11,7 +11,9 @@
 [![Mail](https://img.shields.io/badge/Email-emrearmagan.dev%40gmail.com-orange)](mailto:emrearmagan.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Emre%20Armagan-black?style=flat&logo=LinkedIn&logoColor=0077b5)](https://www.linkedin.com/in/emrearmagan/)\
 [![Currently working on](https://img.shields.io/badge/Working%20on-Socially-0a192f?style=flat)](https://www.sociallyapp.de)
+<!--START_SECTION:lines_of_code-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.6%20million%20lines%20of%20code-blue)
+<!--END_SECTION:lines_of_code-->
 
 ---
 <br>
@@ -29,6 +31,7 @@ Welcome to my page 👋🏻 <br> I'm Emre Armagan and enjoy coding in my free ti
 <p>
     <img src="https://img.shields.io/badge/-Swift-F05138?&style=flat&logo=swift&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Go-00a1cf?&style=flat&logo=go&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=lua&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Java-F44336?style=flat&logo=java&logoColor=white" />
     <img src="https://img.shields.io/badge/-Python-396E9B?style=flat&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/-C++-0277BD?&style=flat&logo=c%2B%2B&logoColor=white"/>
