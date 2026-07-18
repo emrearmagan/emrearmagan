@@ -77,16 +77,18 @@ Welcome to my page 👋🏻 <br> I'm Emre Armagan and enjoy coding in my free ti
 <!--END_SECTION:lines_of_code-->
 
 <!--START_SECTION:waka_languages-->
-
-**I Mostly Code in Swift**
+**I Mostly Code in Swift** 
 
 ```text
-Swift                    16 repos            █████████░░░░░░░░░░░░░░░░   35.56 %
-Go                       12 repos            ███████░░░░░░░░░░░░░░░░░░   26.67 %
-Lua                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 %
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
-Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+Swift                    16 repos            █████████░░░░░░░░░░░░░░░░   35.56 % 
+Go                       12 repos            ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+Lua                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 ```
+
+
+
 
 <!--END_SECTION:waka_languages-->
 
