@@ -93,17 +93,17 @@ Vue                      1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka_languages-->
 
 <!--START_SECTION:github_data-->
+**🐱 My GitHub Data** 
 
-**🐱 My GitHub Data**
-
-> 📦 443.1 kB Used in GitHub's Storage
->
-> 🏆 885 Contributions in the Year 2026
->
+> 📦 443.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 889 Contributions in the Year 2026
+ > 
 > 🚫 Not Opted to Hire
->
-> 📜 19 Public Repositories
->
-> 🔑 21 Private Repositories
+ > 
+> 📜 19 Public Repositories 
+ > 
+> 🔑 21 Private Repositories 
+ > 
 
 <!--END_SECTION:github_data-->
