@@ -38,6 +38,7 @@ jobs:
           SHOW_SHORT_INFO: "False"
           SHOW_UPDATED_DATE: "False"
           SHOW_AI_CODE_TIME: "False"
+          SHOW_AI_CODING: "False"
           SYMBOL_VERSION: "1"
           BADGE_STYLE: "flat"
 
@@ -64,6 +65,7 @@ jobs:
           SHOW_SHORT_INFO: "False"
           SHOW_UPDATED_DATE: "False"
           SHOW_AI_CODE_TIME: "False"
+          SHOW_AI_CODING: "False"
           SYMBOL_VERSION: "1"
           BADGE_STYLE: "flat"
 
@@ -90,5 +92,6 @@ jobs:
           SHOW_SHORT_INFO: "True"
           SHOW_UPDATED_DATE: "False"
           SHOW_AI_CODE_TIME: "False"
+          SHOW_AI_CODING: "False"
           SYMBOL_VERSION: "1"
           BADGE_STYLE: "flat"
