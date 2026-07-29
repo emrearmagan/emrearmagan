@@ -37,6 +37,7 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_SHORT_INFO: "False"
           SHOW_UPDATED_DATE: "False"
+          SHOW_AI_CODE_TIME: "False"
           SYMBOL_VERSION: "1"
           BADGE_STYLE: "flat"
 
@@ -62,6 +63,7 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_SHORT_INFO: "False"
           SHOW_UPDATED_DATE: "False"
+          SHOW_AI_CODE_TIME: "False"
           SYMBOL_VERSION: "1"
           BADGE_STYLE: "flat"
 
@@ -87,5 +89,6 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_SHORT_INFO: "True"
           SHOW_UPDATED_DATE: "False"
+          SHOW_AI_CODE_TIME: "False"
           SYMBOL_VERSION: "1"
           BADGE_STYLE: "flat"
