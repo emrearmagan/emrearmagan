@@ -73,6 +73,13 @@ Welcome to my page 👋🏻 <br> I'm Emre Armagan and enjoy coding in my free ti
 <!--START_SECTION:lines_of_code-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.33%20million%20lines%20of%20code-blue?style=flat)
 
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+
 <!--END_SECTION:lines_of_code-->
 
 <!--START_SECTION:waka_languages-->
