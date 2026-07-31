@@ -81,9 +81,9 @@ Welcome to my page 👋🏻 <br> I'm Emre Armagan and enjoy coding in my free ti
 
 ```text
 Swift                    16 repos            █████████░░░░░░░░░░░░░░░░   34.78 % 
-Go                       13 repos            ███████░░░░░░░░░░░░░░░░░░   28.26 % 
+Go                       12 repos            ███████░░░░░░░░░░░░░░░░░░   26.09 % 
 Lua                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 ```
 
