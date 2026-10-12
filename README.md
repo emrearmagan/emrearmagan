@@ -80,11 +80,11 @@ Welcome to my page 👋🏻 <br> I'm Emre Armagan and enjoy coding in my free ti
 **I Mostly Code in Swift** 
 
 ```text
-Swift                    16 repos            ████████░░░░░░░░░░░░░░░░░   32.00 % 
-Go                       12 repos            ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
-Lua                      7 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-Vue                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Swift                    14 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Go                       9 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+Lua                      7 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 ```
 
 
